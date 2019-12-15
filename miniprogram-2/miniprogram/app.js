@@ -15,6 +15,11 @@ App({
       })
     }
 
-    this.globalData = {}
+    // this.globalData = {},
+    // wx.getUserInfo({
+    //   success : function(res) {
+    //     console.log(res)
+    //   }
+    // })
   }
 })
